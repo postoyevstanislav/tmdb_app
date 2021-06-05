@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tmdb_app/static/css/main.3f06e5eb.chunk.css",
+    "main.js": "/tmdb_app/static/js/main.29b7e3b1.chunk.js",
+    "main.js.map": "/tmdb_app/static/js/main.29b7e3b1.chunk.js.map",
+    "runtime-main.js": "/tmdb_app/static/js/runtime-main.9e597d96.js",
+    "runtime-main.js.map": "/tmdb_app/static/js/runtime-main.9e597d96.js.map",
+    "static/js/2.e241c30a.chunk.js": "/tmdb_app/static/js/2.e241c30a.chunk.js",
+    "static/js/2.e241c30a.chunk.js.map": "/tmdb_app/static/js/2.e241c30a.chunk.js.map",
+    "index.html": "/tmdb_app/index.html",
+    "static/css/main.3f06e5eb.chunk.css.map": "/tmdb_app/static/css/main.3f06e5eb.chunk.css.map",
+    "static/js/2.e241c30a.chunk.js.LICENSE.txt": "/tmdb_app/static/js/2.e241c30a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e597d96.js",
+    "static/js/2.e241c30a.chunk.js",
+    "static/css/main.3f06e5eb.chunk.css",
+    "static/js/main.29b7e3b1.chunk.js"
+  ]
+}
